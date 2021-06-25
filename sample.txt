@@ -1,1 +1,2 @@
 #sample content
+Added line 2 from dev A user.
